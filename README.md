@@ -5,9 +5,9 @@
 
 $ pkg install git python2 
 $ pip2 install urllib2 urllib 
-$ git clone https://github.com/Bl4ckDr460n/G-Dork
-$ cd G-Dork
-$ python2 G-Dork.py
+$ git clone https://github.com/zonaredXXII/G-DorkXXII.git
+$ cd G-DorkXXII
+$ python2 G-DorkXXII.py
 
 = Inurl : masukan dork ny
 = site   : pilih domain ny contoh *_com,net,id_*
