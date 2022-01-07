@@ -5,7 +5,7 @@
 
 $ pkg install git python2 
 $ pip2 install urllib2 urllib 
-$ git clone https://github.com/zonaredXXII/G-DorkXXII.git
+$ git clone https://github.com/HRC303/G-DorkXXII
 $ cd G-DorkXXII
 $ python2 G-DorkXXII.py
 
